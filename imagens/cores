@@ -1,0 +1,22 @@
+Hexadecimal 0123456789ABCDEF
+
+
+RGB = Red Green Blue
+
+#_ _ _ _ _ _
+
+0 = ausência  #000000 = black
+
+F = Máximo    #ffffff = white
+
+
+
+RGB = 0,1,2,3,....255
+
+0 = ausência
+
+255 = máximo
+
+rgb(255,255,255) = white
+
+blue = (0, 0, 255)
